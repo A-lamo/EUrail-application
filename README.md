@@ -43,17 +43,14 @@ The full research process is documented in `analysis.ipynb`.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/A-lamo/EUrail-application.git
+    cd EUrail-application
     ```
 
 2.  Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-
-3.  **Data Requirement:**
-    Ensure `JFK Airport Weather Data.csv` is in the root directory. (Source: NOAA GHCN Daily).
 
 ### Running the App
 
